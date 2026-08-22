@@ -1,0 +1,1 @@
+import{i as e,z as t}from"./index-D2y_-jTl.js";var n=t();function r({src:t,alt:r,width:i,height:a,priority:o=!1,className:s}){return(0,n.jsx)(`img`,{src:t,alt:r,width:i,height:a,decoding:`async`,loading:o?`eager`:`lazy`,fetchPriority:o?`high`:`low`,draggable:!1,className:e(`object-contain`,s)})}export{r as t};
